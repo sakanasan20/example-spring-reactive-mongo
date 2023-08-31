@@ -61,6 +61,13 @@
 			<artifactId>mapstruct</artifactId>
 			<version>${org.mapstruct.version}</version>
 		</dependency>
+		
+		<dependency>
+		    <groupId>org.awaitility</groupId>
+		    <artifactId>awaitility</artifactId>
+		    <scope>test</scope>
+		</dependency>
+
 	</dependencies>
 
 	<build>
