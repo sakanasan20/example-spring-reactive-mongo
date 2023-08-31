@@ -19,7 +19,7 @@ import tw.niq.example.mapper.BeerMapper;
 import tw.niq.example.mapper.BeerMapperImpl;
 
 @SpringBootTest
-class BeerServiceImplTest {
+public class BeerServiceImplTest {
 	
 	@Autowired
 	BeerService beerService;
