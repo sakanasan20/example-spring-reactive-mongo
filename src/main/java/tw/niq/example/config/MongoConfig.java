@@ -1,4 +1,4 @@
-package tw.niq.example;
+package tw.niq.example.config;
 
 import static java.util.Collections.singletonList;
 
